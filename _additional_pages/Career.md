@@ -1,7 +1,7 @@
 ---
 title: 研究方向
 layout: simple
-order: 3
+order: 1
 ---
 
 > *1.前端设计与交互*
