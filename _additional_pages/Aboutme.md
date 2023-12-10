@@ -1,7 +1,7 @@
 ---
 title: 收获
 layout: simple
-order: 4
+order: 3
 ---
 > *明确未来方向，对于前端开发进行了更深刻的学习*
 > 
