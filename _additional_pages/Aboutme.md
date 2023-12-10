@@ -1,5 +1,11 @@
 ---
-title: About me
+title: 收获
 layout: simple
-order: 1
+order: 4
 ---
+> *明确未来方向，对于前端开发进行了更深刻的学习*
+> 
+> *接触了多种不同编程语言，如java，matlab，C#，C++，MySQL，HTML5等*
+> 
+> *提高了团队协作能力，深刻认识到了与项目组其他人的差距，不断反思，不断进步*
+> 
