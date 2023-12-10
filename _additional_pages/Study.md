@@ -12,7 +12,7 @@ order: 2
 >*4.NET.core框架迁移*
 
 
-### [Surviving the mathematics major at Imperial College London](/study/Imperial_mathematics/Imperial_mathematics)
+### [The future will create more possibilities](/study/Imperial_mathematics/Imperial_mathematics)
 
 
   
