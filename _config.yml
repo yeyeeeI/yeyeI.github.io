@@ -20,7 +20,7 @@ cusdis:
 
 user:
   name: 叶子煊
-  pic: /assets/img/1.png
+  pic: /assets/img/01.png
   picAlt: "Personal homepage of YeZixuan "
   job: student
   # aboutme: true # comment this out if you don't need the 'about' page.
