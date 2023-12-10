@@ -1,5 +1,5 @@
 ---
-title: Study
+title: 参与项目
 layout: simple
 order: 2
 ---
