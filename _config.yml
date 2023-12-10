@@ -1,6 +1,6 @@
-title: An Exhibition of A Hunger Artist #Your awesome title
-email: annabellee123456@outlook.com
-description: > # this means to ignore newlines until "baseurl"
+title: Personal homepage of YeZixuan #Your awesome title
+email: 1781585129@qq.com
+description: > # 江苏海洋大学在读大三学生"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
@@ -19,10 +19,10 @@ cusdis:
     app_id: #your cusdis app_id
 
 user:
-  name: WHY
-  pic: /assets/img/profile.jpg
-  picAlt: "An Exhibition of A Hunger Artist"
-  job: Muss es sein? Es muss sein!
+  name: 叶子煊
+  pic: /assets/img/1.png
+  picAlt: "Personal homepage of YeZixuan "
+  job: student
   # aboutme: true # comment this out if you don't need the 'about' page.
 
 exclude:
